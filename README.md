@@ -5,8 +5,7 @@ JavaScript Developer | Node.js Developer | Cloud Enthusiast | Learning Enthusias
 ---------------------------------------------------------------------------------
 
 * 🌍  I'm based in Bengaluru, India
-* ✉️  You can contact me at [sahil.jamwal78625@gmail.com](mailto:sahil.jamwal@jai-kisan.com)
-* 🚀  I'm currently working on [Graph QL Learning](http://github.com/sahiljamwal/graphql-learning)
+* ✉️  You can contact me at [sahil.jamwal@jai-kisan.com](mailto:sahil.jamwal@jai-kisan.com)
 * 🧠  I'm learning AWS Serverless Services, Docker and Graph QL
 * 🤝  I'm working to collaborating on Node.js, Javascript, Typescript and React.js projects
 
