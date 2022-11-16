@@ -34,8 +34,8 @@ JavaScript Developer | Node.js Developer | Cloud Enthusiast | Learning Enthusias
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sahiljamwal"><img src="https://github-readme-stats.vercel.app/api?username=sahiljamwal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sahiljamwal's GitHub stats" /></a>
+<a href="http://www.github.com/jk-sahil-jamwal"><img src="https://github-readme-stats.vercel.app/api?username=jk-sahil-jamwal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sahiljamwal's GitHub stats" /></a>
 
-<a href="http://www.github.com/sahiljamwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljamwal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/jk-sahil-jamwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jk-sahil-jamwal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/sahiljamwal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljamwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jk-sahil-jamwal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk-sahil-jamwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
